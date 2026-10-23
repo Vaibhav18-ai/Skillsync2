@@ -1,0 +1,9 @@
+{
+  "name": "SkillSync - Fair Team Formation & Workspace",
+  "description": "Intelligent, algorithm-driven team formation platform with skill matching, fairness optimization, coordinator dashboard, and team workspace collaboration.",
+  "requestFeedback": false,
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
